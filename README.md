@@ -1,2 +1,24 @@
-# Personal_Portfolio
-Wordpress developer &amp; Server Admin Personal PortFolio Website
+🖥️ WordPress Developer & Server Administrator Portfolio Website
+This is my personal portfolio website showcasing my skills, experience, certifications, and projects as a WordPress Developer & Server Administrator. The site features a modern, responsive design with sections for About Me, Services, Technical Skills, Experience & Education, Certifications, and Featured Projects. Built with clean HTML, CSS, JavaScript, and modern UI components.
+
+🚀 Key Features:
+
+Professional landing page with hero section and call-to-action
+
+Detailed sections highlighting my technical skills, professional experience, and education
+
+Certifications and achievements displayed with modern card layouts
+
+Portfolio gallery of featured projects with descriptions and links
+
+Contact section to start new projects
+
+Fully responsive and optimized for desktop and mobile devices
+
+🎨 Tech Stack:
+
+HTML5, CSS3, JavaScript
+
+Custom animations and interactive UI components
+
+Responsive layout with modern design principles
