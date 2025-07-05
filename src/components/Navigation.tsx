@@ -102,7 +102,6 @@ const Navigation = () => {
             </div>
             <div className="block">
               <div className="text-gray-900 font-bold text-xl tracking-tight">Arun Siddhnath</div>
-              <div className="text-gray-500 text-sm font-medium">WordPress Developer</div>
             </div>
           </div>
 
