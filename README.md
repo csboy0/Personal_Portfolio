@@ -1,25 +1,39 @@
-🖥️ WordPress Developer & Server Administrator Portfolio Website
-This is my personal portfolio website showcasing my skills, experience, certifications, and projects as a WordPress Developer & Server Administrator. The site features a modern, responsive design with sections for About Me, Services, Technical Skills, Experience & Education, Certifications, and Featured Projects. Built with clean HTML, CSS, JavaScript, and modern UI components.
+Website
+
+📝 Project Description:
+A sleek, fully responsive developer portfolio website built with React.js to showcase professional skills, experience, certifications, and projects. Designed specifically for developers and IT professionals, it provides a compelling digital resume with modern UI and interactive elements.
 
 🚀 Key Features:
 
-Professional landing page with hero section and call-to-action
+Stylish hero section with name, role, and call-to-action
 
-Detailed sections highlighting my technical skills, professional experience, and education
+Detailed “About Me” section with personal introduction and key statistics
 
-Certifications and achievements displayed with modern card layouts
+Comprehensive service offerings with “What I Can Do for You”
 
-Portfolio gallery of featured projects with descriptions and links
+Technical skills displayed with animated progress bars
 
-Contact section to start new projects
+Timeline for professional experience and education
 
-Fully responsive and optimized for desktop and mobile devices
+Certifications & Achievements showcased in a clean, organized layout
 
-🎨 Tech Stack:
+Featured Projects section with interactive cards linking to project details
 
-HTML5, CSS3, JavaScript
+Responsive design optimized for desktop and mobile devices
 
-Custom animations and interactive UI components
+Smooth scrolling and polished animations for modern UX
 
-Responsive layout with modern design principles
+🔧 Tech Stack:
+
+React.js
+
+HTML5 & CSS3
+
+Optional: Tailwind CSS or CSS modules
+
+
+
+
+
+
 ![screencapture-localhost-5173-2025-07-07-03_47_11-min](https://github.com/user-attachments/assets/222b930b-ac46-49fd-9ded-9f0ba9f13ba7)
