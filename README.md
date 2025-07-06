@@ -22,3 +22,4 @@ HTML5, CSS3, JavaScript
 Custom animations and interactive UI components
 
 Responsive layout with modern design principles
+![screencapture-localhost-5173-2025-07-07-03_47_11-min](https://github.com/user-attachments/assets/222b930b-ac46-49fd-9ded-9f0ba9f13ba7)
